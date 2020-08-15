@@ -19,18 +19,29 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Wordplay: When Language Meets Games (NeurIPS 2020 Workshop)"
-email: wordplay.workshop.organizers@gmail.com
+footer: '<a href="mailto:wordplay.workshop.organizers@gmail.com">Contact us</a>'
 description: >- # this means to ignore newlines until "baseurl:"
   Official website for the Wordplay Workshop at NeurIPS 2020.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  wordplay-workshop
 
 # Build settings
-theme: minima
+
+header_pages:
+    - index.markdown
+    - cfp.markdown
+    - organizers.markdown
+    - pc.markdown
+    - schedule.markdown
+    - speakers.markdown
+
+style: hacker
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

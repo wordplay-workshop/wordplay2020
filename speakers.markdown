@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speakers (Tentative)
+title: /speakers
 permalink: /speakers/
 ---
 
