@@ -13,6 +13,25 @@ permalink: /
 
 **Location: NeurIPS 2020 is a Virtual-only Conference**
 
+## The one line version: Your one stop shop for all things interactive narrative + AI!
+
+### The slightly longer version
+
+This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling.
+A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased.
+This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. 
+Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment.
+The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.
+
+We like all things:
+- Interactive narrative: whether it be game playing RL agents or game generation
+- Interactive language learning
+- Natural language generation
+- Improvisational storytelling
+- And more! Anything you can think of that involves narrative, interactivity, and language!
+
+### The actual version
+
 Interactivity has been shown to be a core component of learning.
 Humans learn various skills such as language, vision, motor skills, etc. more effectively through interactive media [Feldman and Narayanan, 2004; Barsalou, 2008].
 In the realm of machines, interactive environments have served as cornerstones in the quest to develop more robust algorithms for learning agents across many machine learning sub-communities.
@@ -33,12 +52,6 @@ Interactive narratives further provides us with the ability to study storytellin
 Interactive storytelling is one of the most natural forms of human communication and imagine how much more we could do with our machines if we could get them to tell stories.
 This task features many of the challenges previously discussed including: long-term coherence, and genre-specific and everyday commonsense reasoning.  
 This can be in one of many forms: (1) through procedural generation of interactive language-based environments [Guzdial et al., 2015; Ammanabrolu et al., 2019; Fan et al., 2019; Tamari et al., 2019; Womack and Freeman, 2019; Ammanabrolu et al., 2020], (2) improvisational or collaborative storytelling  [Martinet al., 2017; Mirowski and Mathewson, 2019], or (3) persona-driven situated dialogue [Urbanek et al., 2019; Prabhumoye et al., 2020].
-
-This workshop will focus on exploring the utility of interactive narratives to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling.
-A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased.
-This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. 
-Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment.
-The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.
 
 
 # Diversity and Inclusion
