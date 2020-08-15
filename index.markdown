@@ -4,23 +4,24 @@
 
 # layout: home
 layout: page
-title: /Overview
+title: /overview
 permalink: /
 ---
-# Wordplay: When Language Meets Games (NeurIPS 2020 Workshop)
+# Wordplay: When Language Meets Games (NeurIPS 2020 Workshop) <br />
 
-**Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD**
+Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
 
-**Location: NeurIPS 2020 is a Virtual-only Conference**
+Location: NeurIPS 2020 is a Virtual-only Conference
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
 ### The slightly longer version
 
-This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.
+This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
+
 
 We like all things:
-- Interactive narrative: whether it be game playing RL agents or game generation
+- Interactive narrative: game playing RL agents, game generation, etc.
 - Interactive language learning
 - Natural language generation
 - Improvisational storytelling
@@ -28,14 +29,13 @@ We like all things:
 
 ### The actual version
 
-Interactivity has been shown to be a core component of learning. Humans learn various skills such as language, vision, motor skills, etc. more effectively through interactive media [Feldman and Narayanan, 2004; Barsalou, 2008]. In the realm of machines, interactive environments have served as cornerstones in the quest to develop more robust algorithms for learning agents across many machine learning sub-communities. Environments such as the Atari Learning Environment (ALE) [Bellemare et al., 2013]  and Malmo [Johnsonet al., 2016] have enabled the development of game agents that perform complex tasks while operating on raw video inputs, and more recently THOR [Kolve et al., 2017] and Habitat [Savva et al., 2019] attempt to do the same with embodied agents in simulated 3D worlds.
+Interactivity has been shown to be a core component of learning. Humans learn various skills such as language, vision, motor skills, etc. more effectively through interactive media [Feldman and Narayanan, 2004; Barsalou, 2008]. In the realm of machines, interactive environments have served as cornerstones in the quest to develop more robust algorithms for learning agents across many machine learning sub-communities. Environments such as the Atari Learning Environment (ALE) [Bellemare et al., 2013]  and Malmo [Johnsonet al., 2016] have enabled the development of game agents that perform complex tasks while operating on raw video inputs, and more recently THOR [Kolve et al., 2017] and Habitat [Savva et al., 2019] attempt to do the same with embodied agents in simulated 3D worlds.  <br />
 
 
-There has been a void for such environments in terms of purely language-oriented tasks. Recently, however, there has been much work showing that interactive narratives---existing at the intersection of natural language processing, storytelling, and sequential decision making---provide ideal platforms to develop situated language learning agents that span these fields [Narasimhan et al., 2015; Côté et al., 2018; Fuldaet al., 2017; Zahavy et al., 2018; Hausknecht et al., 2019]. Interactive narratives for our purpose refer to settings in which a narrative unfolds sequentially, driven by an agent's interactions. These interactions themselves are fully language based---the agent "perceives" and "talks" in this simulation using only text. Examples include, but are not limited to, text-adventure or interactive fiction games such as Zork [Anderson et al., 1979], improvisational storytelling [Martin et al., 2017; Mathewson and Mirowski, 2017], situated dialogue [Urbanek et al., 2019] and interactive question answering in these worlds [Yuan et al., 2019].
-In order to infer the context and objectives of these narratives, humans bring competencies in natural language understanding, commonsense reasoning, and deduction to bear. These are competencies that a learning agent will need to acquire to master the domain.
+There has been a void for such environments in terms of purely language-oriented tasks. Recently, however, there has been much work showing that interactive narratives---existing at the intersection of natural language processing, storytelling, and sequential decision making---provide ideal platforms to develop situated language learning agents that span these fields [Narasimhan et al., 2015; Côté et al., 2018; Fuldaet al., 2017; Zahavy et al., 2018; Hausknecht et al., 2019]. Interactive narratives for our purpose refer to settings in which a narrative unfolds sequentially, driven by an agent's interactions. These interactions themselves are fully language based---the agent "perceives" and "talks" in this simulation using only text. Examples include, but are not limited to, text-adventure or interactive fiction games such as Zork [Anderson et al., 1979], improvisational storytelling [Martin et al., 2017; Mathewson and Mirowski, 2017], situated dialogue [Urbanek et al., 2019] and interactive question answering in these worlds [Yuan et al., 2019]. In order to infer the context and objectives of these narratives, humans bring competencies in natural language understanding, commonsense reasoning, and deduction to bear. These are competencies that a learning agent will need to acquire to master the domain.  <br />
 
 
-From the perspective of developing situated language learning agents, interactive narratives can be modelled as sequential decision making problems in which actions change the subsequent world states of the game. Additionally, choices made early in a game may have long term effects on the eventual endings. Interactive narratives thus pose a different set of challenges than the more traditional machine learning domains in the area. Their puzzle-like structure coupled with a partially observable state space, sparse rewards, and a combinatorially-sized action space require extensive understanding of previous context to enable more effective exploration---an implicit long-term dependency problem that agents must overcome.
+From the perspective of developing situated language learning agents, interactive narratives can be modelled as sequential decision making problems in which actions change the subsequent world states of the game. Additionally, choices made early in a game may have long term effects on the eventual endings. Interactive narratives thus pose a different set of challenges than the more traditional machine learning domains in the area. Their puzzle-like structure coupled with a partially observable state space, sparse rewards, and a combinatorially-sized action space require extensive understanding of previous context to enable more effective exploration---an implicit long-term dependency problem that agents must overcome.  <br />
 
 
 Interactive narratives further provides us with the ability to study storytelling in an interactive setting.
@@ -44,8 +44,7 @@ Interactive storytelling is one of the most natural forms of human communication
 
 # Diversity and Inclusion
 
-This workshop aims to provide an environment with open exchange of ideas, freedom of thought and expression, and respectful scientific debate.
-Thus harassment and hostile behavior (Including but not limited to harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity.) are unwelcome in the workshop. 
+This workshop aims to provide an environment with open exchange of ideas, freedom of thought and expression, and respectful scientific debate. Thus harassment and hostile behavior (Including but not limited to harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity.) are unwelcome in the workshop.  <br /> 
 
 
 During the workshop, any participant who experiences harassment or hostile behavior may contact any of our organizing committee members, the organizers will take actions upon the situation to make sure we have a diverse, inclusive and friendly environment.

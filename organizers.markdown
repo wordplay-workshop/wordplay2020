@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /Organizers
+title: /organizers
 permalink: /organizers/
 ---
 
