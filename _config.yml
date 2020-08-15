@@ -28,7 +28,7 @@ url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for y
 #github_username:  wordplay-workshop
 
 # Build settings
-theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 plugins:
   - jekyll-feed
