@@ -28,8 +28,17 @@ url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for y
 #github_username:  wordplay-workshop
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+
+header_pages:
+    - index.markdown
+    - cfp.markdown
+    - organizers.markdown
+    - pc.markdown
+    - schedule.markdown
+    - speakers.markdown
+
 style: hacker
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
 
