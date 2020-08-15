@@ -11,7 +11,7 @@ permalink: /
 
 Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
 
-Location: NeurIPS 2020 is a Virtual-only Conference
+The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/).
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
