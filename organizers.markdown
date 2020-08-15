@@ -4,7 +4,7 @@ title: Organizers
 permalink: /organizers/
 ---
 
-<img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Prithviraj" width="250"/>|  <img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Matthew" width="250"/> |  <img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Eric" width="250"/> |
+<img src="https://wordplay-workshop.github.io/img/raJ.jpg" alt="Prithviraj" width="250"/>|  <img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Matthew" width="250"/> |  <img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Eric" width="250"/> |
 :---------------:|:---------------:|:-------------:
 [Prithviraj Ammanabrolu](http://prithvirajva.com)<br>Georgia Institute of Technology | [Matthew Hausknecht](https://www.microsoft.com/en-us/research/people/mahauskn/)<br>Microsoft Research | [Xingdi Yuan](https://xingdi-eric-yuan.github.io/)<br>Microsoft Research
 
