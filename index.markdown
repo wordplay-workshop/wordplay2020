@@ -7,7 +7,6 @@ layout: page
 title: /overview
 permalink: /
 ---
-<div class="prc">
 <pre style="font-size: 8px">
 <br/>
                                 $$\      $$\                           $$\           $$\                                                 
@@ -38,7 +37,6 @@ permalink: /
               \__|     \__| \_______| \_______|   \____/ \_______/        \______/  \_______|\__| \__| \__| \_______|\_______/           
                                                                                                                                  
 </pre>
-</div>                                                                             										
 <br/> <br/>                                                                                                                                                                                                                                                                                     
 
 
