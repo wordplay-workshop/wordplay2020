@@ -7,7 +7,7 @@ layout: page
 title: /overview
 permalink: /
 ---
-<pre style="font-size: 10px">
+<pre style="font-size: 10px" data-toggle="tooltip" data-original-title="Wordplay: When Language Meets Games">>
 <br/>
                                     $$\      $$\                           $$\           $$\                                                 
                                     $$ | $\  $$ |                          $$ |          $$ |                                                
