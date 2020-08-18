@@ -39,7 +39,7 @@ permalink: /
 </pre>
 <br/> <br/>                                                                                                                                                                                                                                                                                     
 
-Wordplay: When Language Meets Games @ NeurIPS 2020.
+Wordplay: When Language Meets Games @ NeurIPS 2020.<br/><br/>
 
 Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
 
