@@ -26,7 +26,7 @@ permalink: /
   position: absolute;
   z-index: 1;
   top: 100%;
-  left: 50%;
+  left: 75%;
   margin-left: -60px;
 }
 
