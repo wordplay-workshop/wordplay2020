@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Wordplay: When Language Meets Games (NeurIPS 2020 Workshop)"
-footer: '<a href="mailto:wordplay.workshop.organizers@gmail.com">Contact us</a>'
+footer: '<a href="https://wordplay-workshop.github.io/mdn">Modern theme</a> | <a href="mailto:wordplay.workshop.organizers@gmail.com">Contact us</a>'
 description: >- # this means to ignore newlines until "baseurl:"
   Official website for the Wordplay Workshop at NeurIPS 2020.
 baseurl: "" # the subpath of your site, e.g. /blog
