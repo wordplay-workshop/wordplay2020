@@ -7,7 +7,8 @@ layout: page
 title: /overview
 permalink: /
 ---
-<pre style="font-size: 10px" data-toggle="tooltip" data-original-title="Wordplay: When Language Meets Games">>
+<div class="tooltip">
+<pre style="font-size: 10px">
 <br/>
                                     $$\      $$\                           $$\           $$\                                                 
                                     $$ | $\  $$ |                          $$ |          $$ |                                                
@@ -37,6 +38,8 @@ permalink: /
                   \__|     \__| \_______| \_______|   \____/ \_______/        \______/  \_______|\__| \__| \__| \_______|\_______/           
                                                                                                                                          
 </pre>
+<span class="tooltiptext">Wordplay: When Language Meets Games</span>
+</div>
 <br/> <br/>                                                                                                                                                                                                                                                                                     
 
 
