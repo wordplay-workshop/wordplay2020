@@ -9,35 +9,45 @@ permalink: /
 ---
 
 <style>
-/* Tooltip container */
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  border-bottom: 1px dotted black;
 }
 
-/* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
   background-color: black;
   color: #fff;
   text-align: center;
-  padding: 5px 0;
   border-radius: 6px;
- 
-  /* Position the tooltip text - see examples below! */
+  padding: 5px 0;
   position: absolute;
   z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
 }
 
-/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
 </style>
 
 <div class="tooltip">
+<span class="tooltiptext">Wordplay: When Language Meets Games</span>
 <pre style="font-size: 10px">
 <br/>
                                     $$\      $$\                           $$\           $$\                                                 
@@ -68,7 +78,6 @@ permalink: /
                   \__|     \__| \_______| \_______|   \____/ \_______/        \______/  \_______|\__| \__| \__| \_______|\_______/           
                                                                                                                                          
 </pre>
-<span class="tooltiptext">Wordplay: When Language Meets Games</span>
 </div>
 <br/> <br/>                                                                                                                                                                                                                                                                                     
 
