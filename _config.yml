@@ -28,7 +28,7 @@ url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for y
 #github_username:  wordplay-workshop
 
 # Build settings
-
+# 
 header_pages:
     - index.markdown
     - cfp.markdown
