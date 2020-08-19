@@ -37,6 +37,7 @@ header_pages:
     - schedule.markdown
     - speakers.markdown
     - preceding.markdown
+    - <a href="https://wordplay-workshop.github.io/mdn">modern_theme</a>
 
 style: hacker
 markdown: kramdown
