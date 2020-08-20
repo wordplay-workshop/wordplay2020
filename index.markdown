@@ -44,6 +44,22 @@ permalink: /
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.future {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  
+  background-color: #000000;
+  color: #00ff00;
+  border-style: double;  
+}
+
+.future:hover {
+  background-color: #00ff00;
+  color: #000000;
+  color: black;
+}
 </style>
 
 <div class="tooltip">
@@ -78,6 +94,9 @@ permalink: /
                   \__|     \__| \_______| \_______|   \____/ \_______/        \______/  \_______|\__| \__| \__| \_______|\_______/           
                                                                                                                                          
 </pre>
+</div>
+<div style="text-align: center;">
+<a href="https://wordplay-workshop.github.io/modern/" class="future">Back to the future &#8250;&#8250;&#8250;</a>
 </div>
 <br/> <br/>                                                                                                                                                                                                                                                                                     
 
