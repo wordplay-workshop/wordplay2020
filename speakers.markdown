@@ -24,4 +24,3 @@ permalink: /speakers/
 <img src="https://wordplay-workshop.github.io/img/nick.jpg" alt="Nick" width="300"/>
 [Nick Walton](https://latitude.io/)<br> Latitude - AI Dungeon
 {: style="text-align: center;"}
-
