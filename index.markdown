@@ -8,9 +8,9 @@ title: /overview
 permalink: /
 ---
 
-<div class="tooltip">
+<div class="tooltip" style="text-align: center; display: block;" >
 <span class="tooltiptext">Wordplay: When Language Meets Games</span>
-<pre style="font-size: 10px">
+<pre style="calc(2px + 0.4vw) !important">
 <br/>
                                     $$\      $$\                           $$\           $$\                                                 
                                     $$ | $\  $$ |                          $$ |          $$ |                                                
@@ -41,6 +41,7 @@ permalink: /
                                                                                                                                          
 </pre>
 </div>
+<br/>
 <div style="text-align: center;">
 <a href="https://wordplay-workshop.github.io/modern/" class="future">Back to the future &#8250;&#8250;&#8250;</a>
 </div>
