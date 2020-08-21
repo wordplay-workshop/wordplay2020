@@ -13,6 +13,7 @@ permalink: /
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
+  /*tmp*/
 }
 
 .tooltip .tooltiptext {
