@@ -4,6 +4,8 @@ title: /organizers
 permalink: /organizers/
 ---
 
+<div style="display: flex; max-width: 900px; flex-wrap: wrap; justify-content: center;">
+
 <img src="https://wordplay-workshop.github.io/img/raj.jpg" alt="Prithviraj" width="300">
 [Prithviraj Ammanabrolu](http://prithvirajva.com)<br>Georgia Institute of Technology <br><br>
 {: style="text-align: center;"}
@@ -39,3 +41,5 @@ permalink: /organizers/
 <img src="https://wordplay-workshop.github.io/img/mark.png" alt="Mark" width="300">
 [Mark O. Riedl](https://eilab.gatech.edu/mark-riedl)<br>Georgia Institute of Technology <br><br>
 {: style="text-align: center;"}
+
+</div>
