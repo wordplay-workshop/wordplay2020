@@ -10,7 +10,7 @@ permalink: /
 
 <div class="tooltip" style="text-align: center; display: block;" >
 <span class="tooltiptext">Wordplay: When Language Meets Games</span>
-<pre style="font-size: calc(2px + 0.4vw) !important">
+<pre style="font-size: calc(2px + 0.4vw) !important; overflow: visible;">
 <br/>
                                     $$\      $$\                           $$\           $$\                                                 
                                     $$ | $\  $$ |                          $$ |          $$ |                                                
