@@ -4,7 +4,7 @@ title: /call_for_papers
 permalink: /cfp/
 ---
 
-**Submission website:** To be announced.
+**Submission website:** [CMT](https://cmt3.research.microsoft.com/WORDPLAY2020/).
 
 **Submission deadline:** Friday, 9 October 2020 (23:59 AoE)
 
