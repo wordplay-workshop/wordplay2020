@@ -8,6 +8,7 @@ permalink: /pc/
 * Shubham Agarwal (Heriot Watt University)
 * Petar Veličković (DeepMind)
 * Leo Feng (Mila)
+* Abhinav Gupta (Mila)
 * ...
 
 **We are hiring!**
