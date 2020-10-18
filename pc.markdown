@@ -9,6 +9,8 @@ permalink: /pc/
 * Petar Veličković (DeepMind)
 * Leo Feng (Mila)
 * Abhinav Gupta (Mila)
+* Zhiyu Lin (Georgia Tech)
+* Spencer Frazier (Georgia Tech)
 * ...
 
 **We are hiring!**
