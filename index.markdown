@@ -50,7 +50,7 @@ permalink: /
 
 Wordplay: When Language Meets Games @ NeurIPS 2020.<br/><br/>
 
-Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
+Date and time: Full day workshop on Sat the 12<sup>th</sup>.
 
 Location: The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/).
 
