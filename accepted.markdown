@@ -7,6 +7,7 @@ permalink: /accepted/
 * [Towards Emotion-Aware Storytelling Using Reinforcement Learning](https://wordplay-workshop.github.io/modern/assets/pdfs/1.pdf)
 * [Benchmarking Imitation and Reinforcement Learning for serious language-oriented video games](https://wordplay-workshop.github.io/modern/assets/pdfs/2.pdf)
 * [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning](https://wordplay-workshop.github.io/modern/assets/pdfs/3.pdf)
+* [I love your chain mail! Making knights smile in a fantasy game world: Open-domain goal-oriented dialogue agents](https://wordplay-workshop.github.io/modern/assets/pdfs/4.pdf)
 * [The Game Engineer’s Challenge: Generalizing Language Abstractly And Realizing It Concretely](https://wordplay-workshop.github.io/modern/assets/pdfs/5.pdf)
 * [STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation](https://wordplay-workshop.github.io/modern/assets/pdfs/6.pdf)
 * [Controlled Affective Text Generation](https://wordplay-workshop.github.io/modern/assets/pdfs/8.pdf)
