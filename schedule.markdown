@@ -4,11 +4,13 @@ title: /schedule
 permalink: /schedule/
 ---
 
-<h3>Schedule (see full schedule on <a href="https://neurips.cc/virtual/2020/protected/workshop_16160.html">neurips.cc</a></h3>
-<table>
+<h3>Schedule (watch videos on <a href="https://neurips.cc/virtual/2020/protected/workshop_16160.html">neurips.cc</a>)</h3>
+<br/>
+<br/>
+<table style="table-layout: fixed; width: 100%">
   <tr>
-    <th>Time (EST)</th>
-    <th>Title</th>
+    <th style="width: 15%">Time (EST)</th>
+    <th>Event</th>
   </tr>
   <tr>
     <td>09:00&nbsp;&ndash;&nbsp;09:10</td>
