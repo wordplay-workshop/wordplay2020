@@ -6,7 +6,6 @@ permalink: /schedule/
 
 <h3>Schedule (watch videos on <a href="https://neurips.cc/virtual/2020/protected/workshop_16160.html">neurips.cc</a>)</h3>
 <br/>
-<br/>
 <table style="table-layout: fixed; width: 100%">
   <tr>
     <th style="width: 15%">Time (EST)</th>
